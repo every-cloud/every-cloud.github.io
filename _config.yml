@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Silver Lining"
+name                     : "Every cloud"
 description              : "Every cloud has a silver lining"
 url                      : "https://every-cloud.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Silver Lining"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "|Every cloud has a silver lining.|"
   location         : "Somewhere"
   email            :
   links:
